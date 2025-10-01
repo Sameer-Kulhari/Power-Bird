@@ -21,7 +21,11 @@ The design focuses on **compactness, efficiency, and reliability**, ensuring sta
 - **Compact PCB footprint** for easy integration into custom projects  
 
 ---
-
+## Images :
+3.3v
+<img src="SCH_Power-5v_1-P1_2025-10-01.png"/>
+5v
+<img src="SCH_Main_1-Schematic_2025-10-01.png"/>
 ## 🔧 Components  
 - **MP2338** – Main buck converter IC  
 - **Inductor (4.7 µH – 6.8 µH)** – For energy storage and regulation  
